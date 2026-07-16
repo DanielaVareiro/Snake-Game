@@ -32,7 +32,7 @@ function rodarJogo() {
     desenharTela();
     
     // Faz o jogo rodar de novo daqui a 100 milissegundos (controla a velocidade)
-    setTimeout(rodarJogo, 100);
+    setTimeout(rodarJogo, 150);
 }
 
 // Move a cobra mudando a posição do primeiro bloco
@@ -135,5 +135,3 @@ window.addEventListener("keydown", evento => {
 
 // Inicia o jogo pela primeira vez
 rodarJogo();
-
-setTimeout(rodarJogo, 100);
