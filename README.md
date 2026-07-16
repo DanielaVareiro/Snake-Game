@@ -20,5 +20,4 @@ A fast, clean, and classic arcade Snake Game built entirely with vanilla **HTML5
 
 ---
 
-> **** 
-> **
+> **Domine, fac me instrumentum pacis tuae** 
